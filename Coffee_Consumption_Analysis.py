@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # 
-# # ☕ Worldwide Coffee Habits Analysis
+# # Worldwide Coffee Habits Analysis
 # 
 # Explore trends in coffee consumption, pricing, and preferences across various fictional countries using synthetic data.
 # 
@@ -105,7 +105,7 @@ plt.show()
 
 
 # 
-# ## ✅ Summary
+# ## Summary
 # 
 # - Synthetic data gives us valuable practice for analyzing multi-variable consumption trends.
 # - Americano, Mocha, and Latte appear frequently.
